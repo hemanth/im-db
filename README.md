@@ -1,4 +1,4 @@
 im-db element
 ================
 
-See the [component page](http://hemanth.github.io/web-components/im-db/) for more information.
+See the [component page](http://h3manth.com/demo/custom-elements/im-db/) for more information.
