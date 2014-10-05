@@ -1,11 +1,16 @@
 {
   "name": "im-db",
-  "version": "0.1.0",
-    "authors": [
+  "version": "0.1.1",
+  "authors": [
     "Hemanth.HM <hemanth.hm@gmail.com>"
   ],
   "description": "Custom Polymer element for displaying IMDB info.",
-  "keywords": ["web-components", "movie", "imdb", "ploymer"],
+  "keywords": [
+    "web-components",
+    "movie",
+    "imdb",
+    "ploymer"
+  ],
   "main": "index.html",
   "license": "MIT",
   "homepage": "http://h3manth.com/",
